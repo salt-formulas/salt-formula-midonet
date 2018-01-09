@@ -10,6 +10,6 @@ Vcs-Git: https://github.com/tcpcloud/salt-formula-midonet.git
 
 Package: salt-formula-midonet
 Architecture: all
-Depends: ${misc:Depends}, salt-master, reclass
+Depends: ${misc:Depends}
 Description: Midonet salt formula
  Configure Midonet SDN solution.
